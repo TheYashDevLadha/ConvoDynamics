@@ -3,18 +3,20 @@
 Welcome to **ConvoDynamics**, your portal to unraveling human interaction like never before. Delve into conversations and unveil the concealed emotional depths that steer each interaction. Acquire insights to enrich communication and cultivate deeper connections in every dialogue.
 
 ---
-## ✨ Project Showcase
 
-Here are a few snapshots of ConvoDynamics in action.
+### Main Page
+![Main-Page](https://github.com/user-attachments/assets/c8b36283-e4f8-4797-8385-500e8dcac41a)
 
-*(To add your images, upload them to your GitHub repository and replace the placeholder `#` links below with the direct URLs to your images.)*
 
-| | | |
-|:----------------------------------------------------------:|:----------------------------------------------------------:|:----------------------------------------------------------:|
-| **Description for Image 1** | **Description for Image 2** | **Description for Image 3** |
-| ![Showcase Image 1](https://via.placeholder.com/400x300.png?text=Your+Image+Here) | ![Showcase Image 2](https://via.placeholder.com/400x300.png?text=Your+Image+Here) | ![Showcase Image 3](https://via.placeholder.com/400x300.png?text=Your+Image+Here) |
+### Live Meeting Page
+![LiveMeeting-Page](https://github.com/user-attachments/assets/e88362f7-8c88-4d87-a7b7-5acca47ef10b)
+
+
+### Results Page
+![Result-Page](https://github.com/user-attachments/assets/978e52be-02eb-4315-a0a4-69b4126cb150)
 
 ---
+
 ## 📋 Prerequisites (NVIDIA GPU Setup)
 
 These steps are required for GPU acceleration. Your system must have **Python 3.10** installed.
