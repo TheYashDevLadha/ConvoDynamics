@@ -42,8 +42,7 @@ Follow these steps carefully to set up your environment.
 
 1.  **Clone the Repository**:
     ```bash
-    # Replace with your actual repository URL
-    git clone [https://github.com/your-username/ConvoDynamics.git](https://github.com/your-username/ConvoDynamics.git)
+    git clone https://github.com/TheYashDevLadha/ConvoDynamics.git
     cd ConvoDynamics
     ```
 
@@ -59,10 +58,10 @@ Follow these steps carefully to set up your environment.
 3.  **Install Core Libraries (WhisperX & PyTorch)**:
     ```bash
     # Install whisperx from GitHub
-    pip install git+[https://github.com/m-bain/whisperx.git](https://github.com/m-bain/whisperx.git)
+    pip install git+https://github.com/m-bain/whisperx.git
 
     # Install PyTorch for CUDA 11.8
-    pip install torch==2.0.0 torchvision==0.15.1 torchaudio==2.0.1 --index-url [https://download.pytorch.org/whl/cu118](https://download.pytorch.org/whl/cu118)
+    pip install torch==2.0.0 torchvision==0.15.1 torchaudio==2.0.1 --index-url https://download.pytorch.org/whl/cu118
     ```
 
 4.  **Install Project Requirements**:
